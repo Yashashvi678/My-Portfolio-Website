@@ -1,0 +1,69 @@
+.my_nav_bar 
+{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+
+body
+{
+    text-align: center;
+    background-size: cover;
+    
+}
+.navbar-inverse
+{
+    color: yellow;
+}
+
+#myNavbar
+{
+    position: sticky;
+    color: yellow;
+    text-align: right;
+}
+
+.navbar-brand
+{
+    font-size: 25px;
+    color: rgb(252, 1, 1);
+    align-self: center;
+}
+
+.links{
+ 
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Luxurious Roman', cursive;
+}
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#myCarousel
+{
+    background: linear-gradient(#ff21ff,rgb(255, 251, 0)); 
+    margin: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 30px;
+    padding-bottom: 50px; 
+    padding-top: 30px; 
+    padding-right: 20px;
+}
+
+.carousel-indicators
+{
+    margin-top: 10px;
+}
+
+#digial_nos
+{
+    height: 20%;
+    width: 20%;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
